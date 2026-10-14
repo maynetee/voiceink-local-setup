@@ -1,0 +1,40 @@
+{
+  "AudioRetentionPeriod": 7,
+  "IsAudioCleanupEnabled": true,
+  "IsMenuBarOnly": true,
+  "RecorderType": "notch",
+  "SUAutomaticallyUpdate": false,
+  "SUEnableAutomaticChecks": false,
+  "Shortcut_primaryRecording": {
+    "keyCode": 48,
+    "kind": "key",
+    "modifierFlagsRawValue": 262144
+  },
+  "Shortcut_secondaryRecording": {
+    "keyCode": 10,
+    "kind": "key",
+    "modifierFlagsRawValue": 131072
+  },
+  "VoiceInkChecksForUpdatesOnLaunch": false,
+  "modeConfigurationsV2": [
+    {
+      "icon": {
+        "kind": "symbol",
+        "value": "mic.fill"
+      },
+      "id": "10000000-0000-0000-0000-000000000001",
+      "isAIEnhancementEnabled": false,
+      "isDefault": true,
+      "isEnabled": true,
+      "isRealtimeTranscriptionEnabled": true,
+      "isTextFormattingEnabled": true,
+      "name": "Dictation",
+      "outputMode": "paste",
+      "selectedLanguage": "auto",
+      "selectedTranscriptionModelName": "parakeet-tdt-0.6b-v3",
+      "useClipboardContext": false,
+      "useScreenCapture": false,
+      "useSelectedTextContext": false
+    }
+  ]
+}

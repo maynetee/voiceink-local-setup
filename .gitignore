@@ -1,0 +1,14 @@
+# Sources amont de VoiceInk : dépôt git séparé, nécessaire pour recompiler
+/VoiceInk/
+
+# Journaux des services
+/logs/
+
+# macOS
+.DS_Store
+
+# Dépendances de compilation de VoiceInk (build-voiceink.sh)
+/build/
+
+# Données personnelles : dictionnaire réel, notes, ancien historique git
+/private/

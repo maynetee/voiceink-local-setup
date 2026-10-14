@@ -1,0 +1,11 @@
+{
+  "replacements": [
+    {"dateAdded": 0, "enabled": true, "id": null, "original": "git hub, git hubs", "replacement": "GitHub"},
+    {"dateAdded": 0, "enabled": true, "id": null, "original": "mac book", "replacement": "MacBook"}
+  ],
+  "vocabulary": [
+    {"dateAdded": 0, "word": "GitHub"},
+    {"dateAdded": 0, "word": "VoiceInk"},
+    {"dateAdded": 0, "word": "Parakeet"}
+  ]
+}
